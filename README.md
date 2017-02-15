@@ -1,5 +1,5 @@
 # Firebase: Real Time Web Chat Application
 
-Built with resources from [https://codelabs.developers.google.com/codelabs/firebase-web/#9](Firebase Web Codelab)
+Built with resources from [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/#9)
 
-[https://firebase-sandbox-iamfrankcute.c9users.io/](Live version here)
+[Live version here](https://firebase-sandbox-iamfrankcute.c9users.io/)
