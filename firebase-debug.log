@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/ubuntu/.nvm/versions/node/v4.6.1/bin/node /home/ubuntu/.nvm/versions/node/v4.6.1/bin/firebase serve -p 8080 -o 0.0.0.0
+[debug] CLI Version:  3.2.3
+[debug] Platform:     linux
+[debug] Node Version: v4.6.1
+[debug] Time:         Wed Feb 15 2017 12:34:58 GMT+0000 (UTC)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/ubuntu/workspace/friendlychat/web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://0.0.0.0:8080
