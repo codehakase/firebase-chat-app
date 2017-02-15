@@ -1,5 +1,5 @@
-# Firebase: Build a Real Time Web Chat App Codelab - Start code
+# Firebase: Real Time Web Chat Application
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+Built with resources from [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/#9)
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+[Live version here](https://firebase-sandbox-iamfrankcute.c9users.io/)
